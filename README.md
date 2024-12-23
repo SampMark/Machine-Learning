@@ -29,8 +29,9 @@ Compartilho exemplos práticos sobre a para utilização de bibliotecas em Pytho
 
 ## 📚 **Referências**
 
-- GÉRON, A. Hands-On machine learning with scikit-learn, keras & tensorflow farnham. Canada: O’Reilly, 2023.
 - BARROS, Thiago Medeiros. Um processo orientado a dados para geração de modelo de predição de evasão escolar / tese (doutorado) - PPgEEC/UFRN, Natal/RN, 2020.
+- GÉRON, A. Hands-On machine learning with scikit-learn, keras & tensorflow farnham. Canada: O’Reilly, 2023.
+- GUJARATI, Damodar N. Essentials of econometrics. Sage Publications, 2021.
 
 ---
 
