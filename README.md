@@ -25,6 +25,8 @@ Compartilho exemplos práticos sobre a para utilização de bibliotecas em Pytho
   - [K-Vizinhos Mais Próximos (_K-Nearest Neighbors_ K-NN)](https://github.com/SampMark/Machine-Learn/blob/main/K_Nearest_Neighbors.ipynb)
   - [Árvores de Decisão (_Decision Trees_)](https://github.com/SampMark/Machine-Learn/blob/main/Decision_Trees.ipynb)
   - [Máquina de Vetores de Suporte (_Support Vector Machines_)](https://github.com/SampMark/Machine-Learn/blob/main/SVM_Support_Vector_Machines.ipynb)
+  - [Support Vector Machines (SVM) aplicado à detecção de fraudes em transações](https://github.com/SampMark/Machine-Learn/blob/main/SVM_Applied_to_Transaction_Fraud_Detection.ipynb)
+  - [k-Means](https://github.com/SampMark/Machine-Learn/blob/main/k_Means_with_a_randomly_generated_dataset.ipynb)
 
 
 ## 📚 **Referências**
