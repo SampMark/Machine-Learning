@@ -43,4 +43,4 @@ Contribuições são bem-vindas! Se você deseja aprimorar as soluções ou adic
 
 ---
 
-**🚀 Compartilhe conhecimento e inspire futuros cientistas da computação!**
+**🚀 Compartilhe conhecimento e inspire futuros cientistas de dados!**
