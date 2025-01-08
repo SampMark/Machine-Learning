@@ -19,15 +19,19 @@ Compartilho exemplos práticos sobre a para utilização de bibliotecas em Pytho
 
 ## 📝 **Conteúdo do Repositório**
 - Modelagens utilizando _Machine Learn_:
+- **Regressão**
   - [Regressão Linear Simples](https://github.com/SampMark/Machine-Learn/blob/main/Simple_Linear_Regression.ipynb) e [Múltipla](https://github.com/SampMark/Machine-Learn/blob/main/Multiple_Linear_Regression.ipynb)
   - [Regressão Polinomial](https://github.com/SampMark/Machine-Learn/blob/main/Polynomial_Regression.ipynb)
   - [Regressão Logística](https://github.com/SampMark/Machine-Learn/blob/main/Logistic_Regression.ipynb)
+- **Classificação**
   - [K-Vizinhos Mais Próximos (_K-Nearest Neighbors_ K-NN)](https://github.com/SampMark/Machine-Learn/blob/main/K_Nearest_Neighbors.ipynb)
   - [Árvores de Decisão (_Decision Trees_)](https://github.com/SampMark/Machine-Learn/blob/main/Decision_Trees.ipynb)
   - [Máquina de Vetores de Suporte (_Support Vector Machines_)](https://github.com/SampMark/Machine-Learn/blob/main/SVM_Support_Vector_Machines.ipynb)
   - [Support Vector Machines (SVM) aplicado à detecção de fraudes em transações](https://github.com/SampMark/Machine-Learn/blob/main/SVM_Applied_to_Transaction_Fraud_Detection.ipynb)
+- **Agrupamento/Clustering**
   - [k-Means](https://github.com/SampMark/Machine-Learn/blob/main/k_Means_with_a_randomly_generated_dataset.ipynb)
-
+  - [k-Means aplicado à segmentação de clientes](https://github.com/SampMark/Machine-Learn/blob/main/k_Means_applied_to_customer_segmentation.ipynb)
+  - [Agrupamento Hierárquico Aglomerativo (_Agglomerative Hierarchical Clustering_)](https://github.com/SampMark/Machine-Learn/blob/main/Agglomerative_Hierarchical_Clustering.ipynb)
 
 ## 📚 **Referências**
 
