@@ -32,6 +32,7 @@ Compartilho exemplos práticos sobre a para utilização de bibliotecas em Pytho
   - [k-Means](https://github.com/SampMark/Machine-Learn/blob/main/k_Means_with_a_randomly_generated_dataset.ipynb)
   - [k-Means aplicado à segmentação de clientes](https://github.com/SampMark/Machine-Learn/blob/main/k_Means_applied_to_customer_segmentation.ipynb)
   - [Agrupamento Hierárquico Aglomerativo (_Agglomerative Hierarchical Clustering_)](https://github.com/SampMark/Machine-Learn/blob/main/Agglomerative_Hierarchical_Clustering.ipynb)
+  - [Agrupamento Hierárquico Aglomerativo: aplicado à análise de mercado automotivo](https://github.com/SampMark/Machine-Learn/blob/main/Agglomerative_Hierarchical_Clustering_applied_to_automotive_market_analysis.ipynb)
 
 ## 📚 **Referências**
 
