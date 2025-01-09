@@ -1,6 +1,7 @@
 # 💻 **_Data Science and Analytics_** 🧑‍💻
 
 Bem-vindo 🤗 ao repositório de estudos sobre Ciência de Dados, com foco Análises Exploratória de Dados e modelagens em _machine learn_ aplicadas à ciência de dados e análise. 
+A modelagem em machine learning consiste no processo de criar, treinar e validar modelos computacionais que aprendem padrões a partir de dados. São uma gama de modelos amplamente utilizados para resolver problemas complexos em diversas áreas, os quais envolvem a previsão (regressão), classificação, agrupamento/segmentação e detecção de anomalias (por exemplo, _outliers_).
 Compartilho exemplos práticos sobre a para utilização de bibliotecas em Python, voltadas:
 
 ## 🎯 **Visualização e Análise de Dados:**
@@ -11,8 +12,9 @@ Compartilho exemplos práticos sobre a para utilização de bibliotecas em Pytho
 - **Numpy** para computação numérica, incluindo arrays multidimensionais.
 
 ## 🚀 **Machine Learning:** 
-- Construção e avaliação de modelos preditivos usando as bibliotecas:
+- Construção e avaliação de modelos de regressão, classificação e agrupamento usando bibliotecas, como:
 - **Scikit-learn** para modelagens preditivas usando aprendizado de máquina.
+- **SnapML**, desenvolvida pela IBM, com ênfase em alto desempenho e escalabilidade, projetada para lidar com grandes volumes de dados, utilizando técnicas de paralelismo e aceleração por GPU.
 
 ## 🌟 **Objetivos:**
 - Compartilhar soluções didáticas e bem documentadas para quem está estudando Ciência de Dados, servindo como base de consulta.
