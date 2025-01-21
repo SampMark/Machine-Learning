@@ -36,7 +36,7 @@ Compartilho exemplos práticos sobre a para utilização de bibliotecas em Pytho
   - [Agrupamento Hierárquico Aglomerativo (_Agglomerative Hierarchical Clustering_)](https://github.com/SampMark/Machine-Learn/blob/main/Agglomerative_Hierarchical_Clustering.ipynb)
   - [Agrupamento Hierárquico Aglomerativo: aplicado à análise de mercado automotivo](https://github.com/SampMark/Machine-Learn/blob/main/Agglomerative_Hierarchical_Clustering_applied_to_automotive_market_analysis.ipynb)
   - [**DBSCAN**: Clusterização espacial utilizando dados de estações meteorológicas do Canada](https://github.com/SampMark/Machine-Learn/blob/main/DBSCAN_Clustering_Weather_Station.ipynb)
-  - **Comparação de Desempenho Preditivo**:
+- **Comparação de Desempenho Preditivo**:
   - [Comparação de modelos em machine learn para prever resultados de torneios de basquete: usando KNN, Decision Tree, SVM e Logistic Regression](https://github.com/SampMark/Machine-Learn/blob/main/Prediction_in_Basketball_Tournament_Comparison_Between_Machine_Learn_Models.ipynb)
     
 ## 📚 **Referências**
