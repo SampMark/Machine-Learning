@@ -38,6 +38,22 @@ Compartilho exemplos práticos sobre a para utilização de bibliotecas em Pytho
   - [**DBSCAN**: Clusterização espacial utilizando dados de estações meteorológicas do Canada](https://github.com/SampMark/Machine-Learn/blob/main/DBSCAN_Clustering_Weather_Station.ipynb)
 - **Comparação de Desempenho Preditivo**:
   - [Comparação de modelos em machine learn para prever resultados de torneios de basquete: usando KNN, Decision Tree, SVM e Logistic Regression](https://github.com/SampMark/Machine-Learn/blob/main/Prediction_in_Basketball_Tournament_Comparison_Between_Machine_Learn_Models.ipynb)
+
+## <div style="display: flex; align-items: center; gap: 10px; border: 0; padding: 10px;">
+
+  <img src="https://github.com/user-attachments/assets/8d25464f-0d04-450d-907c-c932c6fef15e" alt="Badge IBM" width="150" style="border: none;">
+
+  <p>
+    <strong>Machine Learning with Python</strong><br>
+    This credential earner understands the basics of machine learning using Python such as: 
+    Distinguishing the difference between the two main types of machine learning methods: supervised & unsupervised; 
+    Identifying supervised learning algorithms, including classification & regression; 
+    Identifying unsupervised learning algorithms, including Clustering & Dimensionality Reduction; 
+    Determining how statistical modeling relates to machine learning & comparing them; 
+    How machine learning affects society.
+  </p>
+
+</div>
     
 ## 📚 **Referências**
 
