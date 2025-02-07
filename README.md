@@ -1,4 +1,4 @@
-# 💻 **_Data Science and Analytics_** 🧑‍💻
+# 💻 **_Machine Learning_** 🧑‍💻
 
 Bem-vindo 🤗 ao repositório de estudos sobre Ciência de Dados, com foco Análises Exploratória de Dados e modelagens em _machine learning_ aplicadas à ciência de dados e análise. 
 
