@@ -1,8 +1,13 @@
 # 💻 **_Data Science and Analytics_** 🧑‍💻
 
 Bem-vindo 🤗 ao repositório de estudos sobre Ciência de Dados, com foco Análises Exploratória de Dados e modelagens em _machine learning_ aplicadas à ciência de dados e análise. 
-A modelagem em machine learning consiste no processo de criar, treinar e validar modelos computacionais que aprendem padrões a partir de dados. São uma gama de modelos amplamente utilizados para resolver problemas complexos em diversas áreas, os quais envolvem a previsão (regressão), classificação, agrupamento/segmentação e detecção de anomalias (por exemplo, _outliers_).
-Compartilho exemplos práticos sobre a para utilização de bibliotecas em Python, voltadas:
+
+A modelagem em machine learning consiste no processo de criar, treinar e validar modelos computacionais que aprendem padrões a partir de dados. Consiste numa gama de modelagens amplamente utilizados para resolver problemas complexos em diversas áreas, os quais envolvem a previsão (regressão), classificação, agrupamento/segmentação e detecção de anomalias (por exemplo, _outliers_). Em linhas gerais, o aprendizado de máquina visa projetar, entender e aplicar programas de computador que aprendem com a experiência, consistindo como uma de suas principais tarefas a **previsão**.
+
+Pode ser empregado em múltiplas aplicações, incluindo pesquisa na web, recomendações de filmes, sistemas automatizados, análise de imagens e jogos. O aprendizado de máquina também está sendo adotado por diferentes disciplinas, como biologia, química e física. 
+Ou ainda, na previsão de eventos futuros, como o valor de mercado de uma ação ou a propensão de determinado paciente adquirir uma doença.
+
+---
 
 ## 🎯 **Visualização e Análise de Dados:**
 - Exemplos práticos para Análise Exploratória de Dados usando bibliotecas como:
