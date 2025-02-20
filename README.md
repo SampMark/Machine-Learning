@@ -25,7 +25,10 @@ Ou ainda, na previsão de eventos futuros, como o valor de mercado de uma ação
 - Compartilhar soluções didáticas e bem documentadas para quem está estudando Ciência de Dados, servindo como base de consulta.
 
 ## 📝 **Conteúdo do Repositório**
-- Modelagens utilizando _Machine Learn_:
+- Introdução ao Aprendizado de Máquina:
+  - [Algoritmo Perceptron -  introdução as redes neurais](https://github.com/SampMark/Machine-Learning/blob/main/Perceptron_Algorithm.ipynb)
+  - Hinge Loss
+- Modelagens utilizando _Machine Learning_:
 - **Regressão**: problemas cujo objetivo é estimar um valor contínuo baseado ou probabilidade em variáveis de entrada.
   - [Regressão Linear Simples](https://github.com/SampMark/Machine-Learn/blob/main/Simple_Linear_Regression.ipynb) e [Múltipla](https://github.com/SampMark/Machine-Learn/blob/main/Multiple_Linear_Regression.ipynb)
   - [Regressão Polinomial](https://github.com/SampMark/Machine-Learn/blob/main/Polynomial_Regression.ipynb)
