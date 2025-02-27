@@ -26,8 +26,9 @@ Ou ainda, na previsão de eventos futuros, como o valor de mercado de uma ação
 
 ## 📝 **Conteúdo do Repositório**
 - Introdução ao Aprendizado de Máquina:
-  - [Algoritmo Perceptron -  introdução as redes neurais](https://github.com/SampMark/Machine-Learning/blob/main/Perceptron_Algorithm.ipynb)
+  - [**Algoritmo Perceptron** -  introdução as redes neurais](https://github.com/SampMark/Machine-Learning/blob/main/Perceptron_Algorithm.ipynb)
   - Hinge Loss
+  - [**Sistema de Análise de Sentimentos/Opiniões**](https://github.com/SampMark/Machine-Learning/blob/main/Sentiment_Analysis___an_introduction_to_machine_learning_algorithms.ipynb), utilização de algoritmos básicos de aprendizado de máquina
 - Modelagens utilizando _Machine Learning_:
 - **Regressão**: problemas cujo objetivo é estimar um valor contínuo baseado ou probabilidade em variáveis de entrada.
   - [Regressão Linear Simples](https://github.com/SampMark/Machine-Learn/blob/main/Simple_Linear_Regression.ipynb) e [Múltipla](https://github.com/SampMark/Machine-Learn/blob/main/Multiple_Linear_Regression.ipynb)
