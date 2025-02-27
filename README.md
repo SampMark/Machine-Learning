@@ -77,9 +77,10 @@ Ou ainda, na previsão de eventos futuros, como o valor de mercado de uma ação
     
 ## 📚 **Referências**
 
-- BARROS, Thiago Medeiros. Um processo orientado a dados para geração de modelo de predição de evasão escolar / tese (doutorado) - PPgEEC/UFRN, Natal/RN, 2020.
-- GÉRON, A. Hands-On machine learning with scikit-learn, keras & tensorflow farnham. Canada: O’Reilly, 2023.
-- GUJARATI, Damodar N. Essentials of econometrics. Sage Publications, 2021.
+- BARROS, Thiago Medeiros. **Um processo orientado a dados para geração de modelo de predição de evasão escolar** / tese (doutorado) - PPgEEC/UFRN, Natal/RN, 2020.
+- GÉRON, A. **Hands-On machine learning with scikit-learn, keras & tensorflow farnham**. Canada: O’Reilly, 2023.
+- GUJARATI, Damodar N. **Essentials of econometrics**. Sage Publications, 2021.
+- PEDREGOSA _et al_. **Scikit-learn: Machine Learning in Python**, [Journal of Machine Learning Research (JMLR)](https://jmlr.org/) 12, pp. 2825-2830, 2011.
 
 ---
 
