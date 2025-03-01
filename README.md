@@ -29,7 +29,7 @@ Ou ainda, na previsão de eventos futuros, como o valor de mercado de uma ação
   - [**Risco Empírico e a Função de Perda (_hinge loss_)**: técnicas comumente usadas para treinar SVMs e outros classificadores lineares](https://github.com/SampMark/Machine-Learning/blob/main/Hinge_Loss.ipynb)
   - [**Gradiente Descendente e Regularização**: uma abordagem matemática e computacional aplicada](https://github.com/SampMark/Machine-Learning/blob/main/Gradient_Descent_and_Regularization.ipynb)
   - [**Algoritmo Perceptron** -  introdução as redes neurais](https://github.com/SampMark/Machine-Learning/blob/main/Perceptron_Algorithm.ipynb)
-  - [**Sistema de Análise de Sentimentos/Opiniões**](https://github.com/SampMark/Machine-Learning/blob/main/Sentiment_Analysis___an_introduction_to_machine_learning_algorithms.ipynb), utilização de algoritmos básicos de aprendizado de máquina
+  
 - Modelagens utilizando _Machine Learning_:
 - **Regressão**: problemas cujo objetivo é estimar um valor contínuo baseado ou probabilidade em variáveis de entrada.
   - [Regressão Linear Simples](https://github.com/SampMark/Machine-Learning/blob/main/ML01_Simple_Linear_Regression.ipynb) e [Múltipla](https://github.com/SampMark/Machine-Learn/blob/main/Multiple_Linear_Regression.ipynb)
@@ -59,6 +59,16 @@ Ou ainda, na previsão de eventos futuros, como o valor de mercado de uma ação
 - **Comparação de Desempenho Preditivo**:
   - [Comparação simplificada do desempenho dos modelos KNN, Decision Tree, SVM e Logistic Regression](https://github.com/SampMark/Machine-Learn/blob/main/Comparison_Models_for_Predicting_Basketball_Tournament_Outcomes.ipynb)  
   - [Modelagem completa e comparação de modelos em machine learn para prever resultados de torneios de basquete](https://github.com/SampMark/Machine-Learn/blob/main/Prediction_in_Basketball_Tournament_Comparison_Between_Machine_Learn_Models.ipynb)
+ 
+- **Sistema de Classificação para Análise de Sentimentos/Opiniões**
+  - Este notebook proporciona uma visão prática sobre aprendizado de máquina aplicado à análise de sentimentos em relação a opiniões sobre produtos ou serviços. O objetivo é treinar e avaliar classificadores lineares (Perceptron, Perceptron Médio e Pegasos) para identificar opiniões avaliações positivas (+1) ou negativas (-1)​.
+  
+    **Tópicos abordados**: 
+    * ✅ Implementação e comparação de algoritmos de classificação
+    * ✅ Ajuste de hiperparâmetros para otimização de desempenho
+    * ✅ Análise gráfica dos resultados
+  
+  Assim, é possível entender melhor como construir um "[Classificador de Sentimentos/Opiniões sobre Produtos e/ou Serviços](https://github.com/SampMark/Machine-Learning/blob/main/Sentiment_Analysis___an_introduction_to_machine_learning_algorithms.ipynb)", mas também sobre como avaliar e melhorar o desempenho de modelos de aprendizado de máquina. 
 
 ## <div style="display: flex; align-items: center; gap: 10px; border: 0; padding: 10px;">
 
