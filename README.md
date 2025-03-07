@@ -29,6 +29,7 @@ Ou ainda, na previsão de eventos futuros, como o valor de mercado de uma ação
   - [**Risco Empírico e a Função de Perda (_hinge loss_)**: técnicas comumente usadas para treinar SVMs e outros classificadores lineares](https://github.com/SampMark/Machine-Learning/blob/main/Hinge_Loss.ipynb)
   - [**Gradiente Descendente e Regularização**: uma abordagem matemática e computacional aplicada](https://github.com/SampMark/Machine-Learning/blob/main/Gradient_Descent_and_Regularization.ipynb)
   - [**Algoritmo Perceptron** -  introdução as redes neurais](https://github.com/SampMark/Machine-Learning/blob/main/Perceptron_Algorithm.ipynb)
+  - [**Função Softmax** - técnica essencial de classificação multi-classe](https://github.com/SampMark/Machine-Learning/blob/main/Softmax_Multinomial_Regression.ipynb)
   
 - Modelagens utilizando _Machine Learning_:
 - **Regressão**: problemas cujo objetivo é estimar um valor contínuo baseado ou probabilidade em variáveis de entrada.
