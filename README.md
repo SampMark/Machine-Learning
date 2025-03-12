@@ -31,6 +31,7 @@ Ou ainda, na previsão de eventos futuros, como o valor de mercado de uma ação
   - [**Algoritmo Perceptron** -  introdução as redes neurais](https://github.com/SampMark/Machine-Learning/blob/main/Perceptron_Algorithm.ipynb)
   - [**Função Softmax** - técnica essencial de classificação multi-classe](https://github.com/SampMark/Machine-Learning/blob/main/Softmax_Multinomial_Regression.ipynb)
   - [**Função de custo de entropia cruzada com regularização L2 (_Log Loss Cross-Entropy_)**](https://github.com/SampMark/Machine-Learning/blob/main/Log_Loss_Cross_Entropy.ipynb)
+  - [**Introdução as Redes Neurais**](https://github.com/SampMark/Machine-Learning/blob/main/Neural_Networks.ipynb)
   
 - Modelagens utilizando _Machine Learning_:
 - **Regressão**: problemas cujo objetivo é estimar um valor contínuo baseado ou probabilidade em variáveis de entrada.
