@@ -54,11 +54,11 @@ Ou ainda, na previsão de eventos futuros, como o valor de mercado de uma ação
     | Métricas de avaliação | Acurácia, Precisão, Recall, F1-score      | RMSE (Root Mean Squared Error), MAE (Mean Absolute Error) |
 
 - **Agrupamento/Clustering**
-  - [k-Means](https://github.com/SampMark/Machine-Learn/blob/main/k_Means_with_a_randomly_generated_dataset.ipynb)
-  - [_Gaussian Mixture Model_ (GMM), **K-Means** vs. **_Expectation-Maximization_(EM)**](https://github.com/SampMark/Machine-Learning/blob/main/Gaussian_Mixture_Model_(GMM)_K_Means_vs_Expectation_Maximization_(EM).ipynb)
-  - [k-Means aplicado à segmentação de clientes](https://github.com/SampMark/Machine-Learn/blob/main/k_Means_applied_to_customer_segmentation.ipynb)
-  - [Agrupamento Hierárquico Aglomerativo (_Agglomerative Hierarchical Clustering_)](https://github.com/SampMark/Machine-Learn/blob/main/Agglomerative_Hierarchical_Clustering.ipynb)
-  - [Agrupamento Hierárquico Aglomerativo: aplicado à análise de mercado automotivo](https://github.com/SampMark/Machine-Learn/blob/main/Agglomerative_Hierarchical_Clustering_applied_to_automotive_market_analysis.ipynb)
+  - [**K-Means**](https://github.com/SampMark/Machine-Learn/blob/main/k_Means_with_a_randomly_generated_dataset.ipynb)
+  - [**K-Means**, aplicado à segmentação de clientes](https://github.com/SampMark/Machine-Learn/blob/main/k_Means_applied_to_customer_segmentation.ipynb)
+  - [**K-Means** vs. **_Expectation-Maximization_(EM)**: _Gaussian Mixture Model_ (GMM)](https://github.com/SampMark/Machine-Learning/blob/main/Gaussian_Mixture_Model_(GMM)_K_Means_vs_Expectation_Maximization_(EM).ipynb)
+  - [**Agrupamento Hierárquico Aglomerativo** (_Agglomerative Hierarchical Clustering_)](https://github.com/SampMark/Machine-Learn/blob/main/Agglomerative_Hierarchical_Clustering.ipynb)
+  - [**Agrupamento Hierárquico Aglomerativo**: aplicado à análise de mercado automotivo](https://github.com/SampMark/Machine-Learn/blob/main/Agglomerative_Hierarchical_Clustering_applied_to_automotive_market_analysis.ipynb)
   - [**DBSCAN**: Clusterização espacial utilizando dados de estações meteorológicas do Canada](https://github.com/SampMark/Machine-Learn/blob/main/DBSCAN_Clustering_Weather_Station.ipynb)
 - **Comparação de Desempenho Preditivo**:
   - [Comparação simplificada do desempenho dos modelos KNN, Decision Tree, SVM e Logistic Regression](https://github.com/SampMark/Machine-Learn/blob/main/Comparison_Models_for_Predicting_Basketball_Tournament_Outcomes.ipynb)  
