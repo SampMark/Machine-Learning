@@ -55,6 +55,7 @@ Ou ainda, na previsão de eventos futuros, como o valor de mercado de uma ação
 
 - **Agrupamento/Clustering**
   - [k-Means](https://github.com/SampMark/Machine-Learn/blob/main/k_Means_with_a_randomly_generated_dataset.ipynb)
+  - [_Gaussian Mixture Model_ (GMM), **K-Means** vs. **_Expectation-Maximization_(EM)**](https://github.com/SampMark/Machine-Learning/blob/main/Gaussian_Mixture_Model_(GMM)_K_Means_vs_Expectation_Maximization_(EM).ipynb)
   - [k-Means aplicado à segmentação de clientes](https://github.com/SampMark/Machine-Learn/blob/main/k_Means_applied_to_customer_segmentation.ipynb)
   - [Agrupamento Hierárquico Aglomerativo (_Agglomerative Hierarchical Clustering_)](https://github.com/SampMark/Machine-Learn/blob/main/Agglomerative_Hierarchical_Clustering.ipynb)
   - [Agrupamento Hierárquico Aglomerativo: aplicado à análise de mercado automotivo](https://github.com/SampMark/Machine-Learn/blob/main/Agglomerative_Hierarchical_Clustering_applied_to_automotive_market_analysis.ipynb)
